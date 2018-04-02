@@ -7,17 +7,12 @@ const AppFooter = () => (
     <Container>
       <Content hasTextAlign="centered">
         <p>
-          <strong>{APP_NAME}</strong> made by{' '}
-          <a href="https://tomasbelada.com" target="blank">
-            Tomas Belada
+          <strong>{APP_NAME}</strong> Made With Love by{' '}
+          <a href="https://procohat.com" target="blank">
+            ProCohat
           </a>
         </p>
-        <p>
-          The source code is available on{' '}
-          <a href="https://github.com/belaczek/hodlwatch" target="blank">
-            GitHub
-          </a>. Feel free to fork, raise an issue or just leave a star.
-        </p>
+        
       </Content>
     </Container>
   </Footer>
